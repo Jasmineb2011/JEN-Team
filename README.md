@@ -1,2 +1,2 @@
 # JEN-Team
-Portfolio of our team as a evelopers 
+Portfolio of our team as developers 
