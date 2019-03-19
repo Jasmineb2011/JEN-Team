@@ -1,0 +1,21 @@
+body {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+ div {
+   display: block;
+     margin: 0 auto;
+     max-width: 600px;
+     text-align: center;
+ }
+
+@@media query {
+  body{
+    font-size: 0;
+  }
+  body div  {
+  display: inline-block;
+  width: 50%;
+  }
+}
