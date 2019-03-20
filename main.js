@@ -1,6 +1,3 @@
-
-
-
 var data = document.getElementById('id')
 function ValidateEmail(data)
 {
