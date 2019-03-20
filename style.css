@@ -1,8 +1,8 @@
 
  body{
-   text-align: center;
+  text-align: center;
   background-image: url("http://i.imgur.com/nS6Wviv.jpg");
-background-attachment: fixed;
+  background-attachment: fixed;
  }
 
 
@@ -36,28 +36,27 @@ li a:hover {
  div {
    display: block;
    margin: 0 auto;
-     text-align: center;
-     max-width: 600px;
+   text-align: center;
+   max-width: 600px;
    font-size:  30px;
-  color: white;
+   color: white;
  }
 
-h2{
+h2 {
   text-decoration: underline;
   font-size: 40px;
-color: white;
-
+  color: white;
 }
 
-h1{
+h1 {
   font-size: 60px;
   color: white;
 }
 
 @media screen and (max-width) {
-body div  {
+ body div  {
   display: block;
-}
+ }
 }
 
 input[type=text], select {
