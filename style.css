@@ -18,6 +18,11 @@ li {
   float: left;
 }
 
+footer {
+  color : white;
+  font-size: 20px;
+}
+
 li a {
   display: block;
   color: white;
