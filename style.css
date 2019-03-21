@@ -45,6 +45,9 @@ div {
   color: white;
  }
 
+h5 {
+  font-size: 35px;
+}
 h2 {
   text-decoration: underline;
   font-size: 40px;
