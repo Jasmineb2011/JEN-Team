@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-image: url("http://i.imgur.com/nS6Wviv.jpg");
+  background-image: url("https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
   background-repeat: no-repeat;
   background-size: cover;
  }
@@ -10,8 +10,9 @@ ul {
   margin: 0px;
   padding-top: 0px;
   overflow: hidden;
-  background-color: #333;
   display: block;
+  position: fixed;
+  top: 0;
 }
 
 li {
@@ -29,7 +30,7 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 li a:hover {
@@ -45,10 +46,10 @@ div {
   color: white;
  }
 
-
 h5 {
   font-size: 35px;
 }
+
 h2 {
   text-decoration: underline;
   font-size: 40px;
